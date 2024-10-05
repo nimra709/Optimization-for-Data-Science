@@ -9,5 +9,18 @@ In this repository, my colleague, Nimra Nawaz, and I implemented the advanced an
 **(A1)** is a standard gradient descent steepest descent approach.<br>
 **(A2)** is a quasi-Newton method such as BFGS or L-BFGS.
 
+# Learning Outcomes
+
+* Learned mathematical concepts necessary to construct algorithms for the solution of optimization problems.
+* Understanding of mathematics behind the optimization of convex and non-convex multivariate functions.
+* Univariate continuous unconstrained optimization.
+* Multivariate continuous unconstrained smooth optimization
+* Multivariate continuous unconstrained nonsmooth optimization
+* Sparse hints to Data Science applications
+
+# For more Information and Collaboration Contact
+
+<a href="https://github.com/umer7267" target="_blank">Hafiz Muhammad Umer</a> <br>
+<a href="https://github.com/nimra709" target="_blank">Nimra Nawaz</a>
 
 
