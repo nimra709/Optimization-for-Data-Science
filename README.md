@@ -4,8 +4,10 @@ In this repository, my colleague, Nimra Nawaz, and I implemented the advanced an
 
 # Project Description
 
-**(P)** is the problem of estimating the matrix norm &#10799;A&#10799;<sub>2</sub> for a (possibly rectangular) matrix A &isin; &#8477;<sup>m &times; n</sup>, using its definition as an (unconstrained) maximum problem.
+**(P)** is the problem of estimating the matrix norm ||A||<sub>2</sub> for a (possibly rectangular) matrix A &isin; &#8477;<sup>m &times; n</sup>, using its definition as an unconstrained maximum problem.
 
-**(A1)** is a standard gradient descent (steepest descent) approach.
+**(A1)** is a standard gradient descent steepest descent approach.<br>
 **(A2)** is a quasi-Newton method such as BFGS or L-BFGS.
+
+
 
